@@ -21,10 +21,5 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Andersongn64&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
----
-
 ### 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-gonzaga-nogueira-43569b158/)
